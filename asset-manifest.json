@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vishali16/weather.git/static/css/main.19ddac8a.chunk.css",
+    "main.js": "/vishali16/weather.git/static/js/main.de717881.chunk.js",
+    "main.js.map": "/vishali16/weather.git/static/js/main.de717881.chunk.js.map",
+    "runtime-main.js": "/vishali16/weather.git/static/js/runtime-main.94908fdf.js",
+    "runtime-main.js.map": "/vishali16/weather.git/static/js/runtime-main.94908fdf.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/vishali16/weather.git/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.4af9ea48.chunk.js": "/vishali16/weather.git/static/js/2.4af9ea48.chunk.js",
+    "static/js/2.4af9ea48.chunk.js.map": "/vishali16/weather.git/static/js/2.4af9ea48.chunk.js.map",
+    "static/js/3.2f9b40c9.chunk.js": "/vishali16/weather.git/static/js/3.2f9b40c9.chunk.js",
+    "static/js/3.2f9b40c9.chunk.js.map": "/vishali16/weather.git/static/js/3.2f9b40c9.chunk.js.map",
+    "index.html": "/vishali16/weather.git/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/vishali16/weather.git/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.19ddac8a.chunk.css.map": "/vishali16/weather.git/static/css/main.19ddac8a.chunk.css.map",
+    "static/js/2.4af9ea48.chunk.js.LICENSE.txt": "/vishali16/weather.git/static/js/2.4af9ea48.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94908fdf.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.4af9ea48.chunk.js",
+    "static/css/main.19ddac8a.chunk.css",
+    "static/js/main.de717881.chunk.js"
+  ]
+}
